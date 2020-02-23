@@ -5,7 +5,7 @@ import { ThemeProvider } from "@material-ui/core/styles";
 
 function App() {
   return (
-    <ThemeProvider theme={theme}>
+    <ThemeProvider theme={Theme}>
       <Header />
       Hello!!!
     </ThemeProvider>
